@@ -1,7 +1,7 @@
 # Heartbeats-Public
 ![Heartbeats](https://github.com/lesyk/Heartbeats-Public/blob/master/logo.png)
 
-[Presentation](https://drive.google.com/open?id=0B8B4zlGccjF0Q3VIak92aWlBeUk)
+[Presentation](https://github.com/lesyk/Heartbeats-Public/blob/master/Heartbeats.pdf)
 
 ## Prototype 2
 ![Prototype 2](https://github.com/lesyk/Heartbeats-Public/blob/master/prototype2/IMAG0176.jpg)
