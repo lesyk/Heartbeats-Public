@@ -1,4 +1,5 @@
 # Heartbeats-Public
+![Heartbeats](https://github.com/lesyk/Heartbeats-Public/blob/master/logo.png)
 
 [Presentation](https://drive.google.com/open?id=0B8B4zlGccjF0Q3VIak92aWlBeUk)
 
